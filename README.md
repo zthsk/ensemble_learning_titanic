@@ -1,0 +1,2 @@
+# ensemble_learning_titanic
+Solving Kaggle Titanic Dataset using Stacking. Stacking is an ensemble learning technique that combines multiple classification or regression models via a meta-classifier or a meta-regressor. The base level models are trained based on a complete training set, then the meta-model is trained on the outputs of the base level model as features. Here, 4 classification algorithms KNN, Random Forest, Naive Bayes and SVM are combined and Linear Regressor is used as meta classifier.
